@@ -26,8 +26,7 @@ Constraints:
 
 -231 <= x <= 231 - 1 */
 var isPalindrome = function(x) {
-    arr=x.toString().split('').map(value=>parseInt(value,10))
-
+    arr=x.toString().split('')
     arrReverse=[...arr].reverse()
     y=parseInt(arrReverse.join(''),10)
 
