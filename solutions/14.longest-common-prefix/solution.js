@@ -27,16 +27,3 @@ var longestCommonPrefix = function(strs) {
 
 console.log(longestCommonPrefix(["cir","car"]))
 
-
-
-    // let firstWord=strs[0].split('')
-   
-
-    // console.log(arr)
-    // // for(let i=1;i<strs.length;i++){
-    // //     for(j=0;j<strs[i].length;j++){
-    // //         if(strs[i][j] == firstWord[j]){
-    // //             console.log(firstWord[j])
-    // //         }
-    // //     }
-    // // }
