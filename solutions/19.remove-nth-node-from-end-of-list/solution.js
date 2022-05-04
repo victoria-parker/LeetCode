@@ -23,6 +23,8 @@ The number of nodes in the list is sz.
 1 <= n <= sz
  */
 
+//SOLUTION
+
 var removeNthFromEnd = function(head, n) {
 
     let endPointer=head

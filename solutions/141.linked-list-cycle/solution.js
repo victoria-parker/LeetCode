@@ -29,6 +29,9 @@ The number of the nodes in the list is in the range [0, 104].
 pos is -1 or a valid index in the linked-list
 */
 
+
+//SOLUTION
+
 var hasCycle = function(head) {
 
   if(head === null) return false;
