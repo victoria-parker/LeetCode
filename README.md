@@ -1,10 +1,9 @@
-# LeetCode
+# LeetCode Challenges
+This repository is filled with [LeetCode](https://leetcode.com/problemset/all/) challenges I solved using Javascript. All the them have the instructions from Leetcode as a comment and then they have my solution.
 
-Repo for storing my progress in solving [LeetCode](https://leetcode.com/problemset/all/) problems in javascrip.
+**Link to my LeetCode profile:** https://leetcode.com/victoria-parker/
 
-All the problem have the instructions from Leetcode as a comment and then they have my solution. 
-
-List of problems solved so far:
+## Here is a table with the challenges I solved so far:
 
 | Problem In LeetCode                                                                                                                | My Solution                                                                                                                                | Difficulty |
 |------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------|
@@ -21,4 +20,9 @@ List of problems solved so far:
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                     | [see code](https://github.com/victoria-parker/LeetCode/blob/master/solutions/206.reverse-linked-list/solution.js)                          | Easy       |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                               | [see code](https://github.com/victoria-parker/LeetCode/blob/master/solutions/234.palindrome-linked-list/solution.js)                       | Easy       |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                                   | [see code](https://github.com/victoria-parker/LeetCode/blob/master/solutions/237.delete-a-node-in-a-linked-list/solution.js)               | Easy       |
-|                                                                                                         
+|
+
+
+## Optimizations
+
+I consistently refactor and optimize my code, sometimes for efficiency, and sometimes for readability. I love to watch how other people solved the challenges I worked on so I learn from them and then, I can include other ways to solve them in my array of knowledge.
