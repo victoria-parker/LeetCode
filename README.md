@@ -20,7 +20,7 @@ This repository is filled with [LeetCode](https://leetcode.com/problemset/all/) 
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                     | [see code](https://github.com/victoria-parker/LeetCode/blob/master/solutions/206.reverse-linked-list/solution.js)                          | Easy       |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                               | [see code](https://github.com/victoria-parker/LeetCode/blob/master/solutions/234.palindrome-linked-list/solution.js)                       | Easy       |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                                   | [see code](https://github.com/victoria-parker/LeetCode/blob/master/solutions/237.delete-a-node-in-a-linked-list/solution.js)               | Easy       |
-|
+
 
 
 ## Optimizations
