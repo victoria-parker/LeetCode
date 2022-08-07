@@ -3,7 +3,7 @@ This repository is filled with [LeetCode](https://leetcode.com/problemset/all/) 
 
 **Link to my LeetCode profile:** https://leetcode.com/victoria-parker/
 
-## Here is a table with the challenges I solved so far:
+## Challenges I solved so far:
 
 | Problem In LeetCode                                                                                                                | My Solution                                                                                                                                | Difficulty |
 |------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------|
