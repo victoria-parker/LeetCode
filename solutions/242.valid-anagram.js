@@ -26,8 +26,8 @@ var isAnagram = function(s, t) {
     if(s.length != t.length){
         return false
     }    
-    let arrS=[...s].sort()
-    let arrT=[...t].sort()
-    
-    return arrS.every((letter,index)=>letter==arrT[index])
+    let sortedS=[...s].sort().join('')
+    let sortedT=[...t].sort().join('')
+
+    return sortedS == sortedT
 };
