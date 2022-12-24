@@ -22,7 +22,7 @@ This repository is filled with [LeetCode](https://leetcode.com/problemset/all/) 
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                               | [see code](https://github.com/victoria-parker/LeetCode/blob/master/solutions/234.palindrome-linked-list.js)                       | Easy       |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                                   | [see code](https://github.com/victoria-parker/LeetCode/blob/master/solutions/237.delete-a-node-in-a-linked-list.js)               | Easy       |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                   | [see code](https://github.com/victoria-parker/LeetCode/blob/master/solutions/242.valid-anagram.js)               | Easy       |
-
+| [344. Reverse String](https://leetcode.com/problems/reverse-string/)                                   | [see code](https://github.com/victoria-parker/LeetCode/blob/master/solutions/344.reverse-string.js)               | Easy       |
 
 
 ## Optimizations
