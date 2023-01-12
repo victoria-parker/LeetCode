@@ -21,7 +21,16 @@ There is at least one word in s.
 All the words in s are separated by a single space.
 */
 
+var reverseWords = function(s) {
+    let words=s.split(' ')
 
+    //helper
+    function reverse(w){
+        return [...w].reverse().join('')
+    }
+
+    return words.map(word=>reverse(word)).join(' ')
+}
 
 // var reverseWords = function(s) {
     
