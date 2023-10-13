@@ -33,7 +33,7 @@
 # Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
 
 def twoSum(nums, target):
-    hash_map=dict() #element,index
+    hash_map=dict() #element:index
     for i,num in enumerate(nums):
         complement = target - num
         if complement in hash_map:
